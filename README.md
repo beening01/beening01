@@ -6,9 +6,17 @@
 
 
 ## About Me 👋
+### AI Engineer
+
+저는 AI 엔지니어를 목표로 공부하고 있는 이한빈입니다.
+
+현재 우리 FISA를 수강하며, 더 성장하고 있습니다.
+
+앞으로 지켜봐주세요~~
 
 
-### 
+<br> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beening01&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beening01&layout=compact&theme=dracula)
 ## STACKS 🛠
