@@ -28,4 +28,4 @@
 
 
 ## Solved.ac 📖
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=gksqls0221&theme=cold)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksqls0221)](https://solved.ac/gksqls0221)
