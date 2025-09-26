@@ -30,3 +30,13 @@
 
 ## Solved.ac 📖
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksqls0221)](https://solved.ac/gksqls0221)
+
+
+## My Pets🐰🦆
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=beening01&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/beening01"
+  width="600"
+  height="300"
+/>
+</a>
